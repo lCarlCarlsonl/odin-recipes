@@ -1,0 +1,1 @@
+Working through foundations on odinproject this is the readme i should have create for github
